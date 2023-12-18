@@ -32,3 +32,4 @@ pub mod framesetter;
 pub mod line;
 pub mod run;
 pub mod string_attributes;
+pub mod typesetter;
